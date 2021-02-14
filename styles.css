@@ -1,5 +1,14 @@
+/* Crafted-Arc CSS */
 
+/* HTML styles */
+#business_card {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	color: white;
+}
 
+/* Bootstrap nav styles */
 .nav-link {
   color: rgb(255,255,255);
 }
