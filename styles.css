@@ -17,9 +17,8 @@
   color: rgb(0,191,255);
 }
 
-.navbar-brand {
+#brand_font {
   font-family: brushtipTexe;
-  font-size: 25px;
   color: #fff;
 }
 
@@ -27,8 +26,3 @@
   background-image: none;
 }
 
-/* .navbar-dark .navbar-toggler-icon::after {
-  content: "\f0aa";
-  font-family: "Font Awesome/ 5 free";
-  color: #fff;
-} */
